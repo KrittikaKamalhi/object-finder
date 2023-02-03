@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    margin-top: 0;
+    width: 100%;
+    line-height:2;
+    font-size: 20px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    font-size: 20px;
+}
+
+canvas{
+    margin-top: 220px;
+    border-radius: 5px;
+    border-width: 2px solid wheat;
+    box-shadow: 8px 8px 8px wheat;
+}
+
+#note{
+    font-size:18px;
+    color: orange;
+}
